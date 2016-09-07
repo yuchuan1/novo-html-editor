@@ -9,6 +9,7 @@
   "license": "MIT",
   "main": "background.js",
   "dependencies": {
+    "draft-js": "^0.8.1",
     "fs-jetpack": "^0.9.0",
     "lodash": "^4.15.0",
     "redux": "^3.6.0"
